@@ -1,0 +1,4 @@
+﻿  Stack.c
+D:\VS\code\Data-Structure\数据结构实验四\数据结构实验四\Stack.c(153,48): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+D:\VS\code\Data-Structure\数据结构实验四\数据结构实验四\Stack.c(142,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  数据结构实验四.vcxproj -> D:\VS\code\Data-Structure\数据结构实验四\x64\Debug\数据结构实验四.exe
