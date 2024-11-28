@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\Data_structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\",
+  "WorkspaceRootPath": "D:\\code\\Data-Structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25F7F834-2969-408F-9286-83654B88B1C8}|\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D.vcxproj|D:\\code\\Data_structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{25F7F834-2969-408F-9286-83654B88B1C8}|\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D.vcxproj|D:\\code\\Data-Structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25F7F834-2969-408F-9286-83654B88B1C8}|\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D.vcxproj|solutionrelative:\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Array.c",
-              "DocumentMoniker": "D:\\code\\Data_structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c",
+              "DocumentMoniker": "D:\\code\\Data-Structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c",
               "RelativeDocumentMoniker": "\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c",
-              "ToolTip": "D:\\code\\Data_structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c",
+              "ToolTip": "D:\\code\\Data-Structure\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c",
               "RelativeToolTip": "\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u516D\\Array.c",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAiwIQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAwM0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-26T09:26:40.119Z",
               "EditorCaption": ""
