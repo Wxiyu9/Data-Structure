@@ -1,0 +1,9 @@
+﻿  test.c
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(82,17): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(175,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(190,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(389,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(389,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(389,13): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\VS\code\Data-Structure\test_11_13\test_11_13\test.c(389,13): message : 此参数用作缓冲区大小
+  test_11_13.vcxproj -> D:\VS\code\Data-Structure\test_11_13\x64\Debug\test_11_13.exe

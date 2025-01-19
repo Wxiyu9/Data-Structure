@@ -90,7 +90,7 @@ void ContactModify(Contact* con)
 	printf("请输入新的性别：");
 	scanf("%s", con->arr[find].gender);
 	printf("请输入新的年龄：");
-	scanf("%d", con->arr[find].age);
+	scanf("%d", &(con->arr[find].age));
 	printf("请输入新的电话：");
 	scanf("%s", con->arr[find].tel);
 	printf("请输入新的地址：");
@@ -100,8 +100,8 @@ void ContactModify(Contact* con)
 //通讯录查找
 void ContactFind(Contact* con)
 {
-	char name[NAME_MAX];
-	printf("请输入要查找的联系人姓名：")；
+	//char name[NAME_MAX];
+	//printf("请输入要查找的联系人姓名：");
 }
 
 //打印通讯录內容
